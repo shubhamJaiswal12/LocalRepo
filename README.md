@@ -1,1 +1,1 @@
-#This is my loacl repo for new;y created folder
+#This is my loacl repo for newly created folder .
